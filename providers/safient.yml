@@ -1,4 +1,4 @@
-- provider_name: BiqNet
+- provider_name: safient
   provider_url: https://biqapp.net/
   endpoints:
   - schemes:
